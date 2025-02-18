@@ -9,13 +9,13 @@ public class Main {
         System.out.println("Hello, Bilal Amir Adam");
 
         System.out.println("Hello, Dr. Olsen");
-//<<<<<<< HEAD
+
         System.out.println("Hello, Bilal");
         System.out.println("Hello, Cam Mac");
 
-//=======
+
         System.out.println("Hello, class!");
         System.out.println("Hello, Sebastian!");
-//>>>>>>> fac6b67cc88f3c3fc854425097e16ab494cb9f46
+
     }
 }
