@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hello, Dr. Krause-Levy!");
 
-        System.out.println("Hello, Cam");
+        System.out.println("Hello, Cam!");
         System.out.println("Hello, Bilal Amir Adam");
 
         System.out.println("Hello, Dr. Olsen");
