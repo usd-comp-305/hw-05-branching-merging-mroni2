@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Hello, Dr. Krause-Levy!");
         System.out.println("Hello, Dr. Olsen");
-        System.out.println("Adding lines to help make the effect needed!");
+        System.out.println("Hello, class!");
 
     }
 }
