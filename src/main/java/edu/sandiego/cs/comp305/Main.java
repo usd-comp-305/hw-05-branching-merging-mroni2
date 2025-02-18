@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Hello, What's your name: ");
         String name = scanner.nextLine();
         System.out.println( " Hello, " +  name );
-        scanner.close();
+            scanner.close();
     }
 }
