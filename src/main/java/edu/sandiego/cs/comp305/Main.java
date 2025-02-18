@@ -9,13 +9,7 @@ public class Main {
         System.out.println("Hello, Bilal Amir Adam");
 
         System.out.println("Hello, Dr. Olsen");
-
-        System.out.println("Hello, Bilal");
-        System.out.println("Hello, Cam Mac");
-
-
         System.out.println("Hello, class!");
         System.out.println("Hello, Sebastian!");
-
     }
 }
