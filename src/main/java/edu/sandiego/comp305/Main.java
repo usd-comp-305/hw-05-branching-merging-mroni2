@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Dr. Krause-Levy!");
         System.out.println("Hello, Penny");
+        System.out.println("Hello, Callie");
     }
 }
